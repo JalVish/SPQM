@@ -1,4 +1,4 @@
-precip_BC_threshBinarySel_function <- function(observations,simulations,thresh) {
+SPQM_Precipitation_Ft <- function(observations,simulations,thresh) {
 
   library(fitdistrplus)
   library(Kendall)
